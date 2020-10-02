@@ -6,7 +6,7 @@ This may be useful to make very short domains or bypass SSRF protection.
 The follow table is generated from fuzz.js in this repository and tested on Chrome 85, Firefox 81, and Safari 13.1.
 
 `Ignored` denotes an empty string.
-For example, `https://blog.recon\u{ad}less.com` is the same as `https://blog.reconbless.com`
+For example, `https://git\u{ad}hub.com` is the same as `https://github.com`
 
 | Code Point | Character | Chrome    | Firefox | Safari  |
 |------------|-----------|-----------|---------|---------|
