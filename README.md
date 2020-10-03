@@ -372,7 +372,7 @@ For example, `https://git\u{ad}hub.com` is the same as `https://github.com`
 | U+3371     | ㍱         | hpa       | hpa     | hpa     |
 | U+3372     | ㍲         | da        | da      | da      |
 | U+3373     | ㍳         | au        | au      | au      |
-| U+3374     | ㍴         | Ignored   | Ignored | Ignored |
+| U+3374     | ㍴         | bar       | bar     | bar     |
 | U+3375     | ㍵         | ov        | ov      | ov      |
 | U+3376     | ㍶         | pc        | pc      | pc      |
 | U+3377     | ㍷         | dm        | dm      | dm      |
