@@ -1,7 +1,7 @@
 # Unicode Mapping on Domain names
 
 Browsers support internetionalized domains, but some Unicode characters are converted into English letters and symbols.
-This may be useful to make very short domains or bypass SSRF protection.
+This may be useful to make very short domains or bypass SSRF protection. More https://www.youtube.com/watch?v=f1XCvDCO22U.
 
 The follow table is generated from fuzz.js in this repository and tested on Chrome 85, Firefox 81, and Safari 13.1.
 
